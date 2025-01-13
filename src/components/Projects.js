@@ -6,10 +6,10 @@ const projects = [
     link: "https://github.com/sNirajan/Chat-App",
   },
   {
-    title: "Portfolio Website",
+    title: "Digital Library Management",
     description:
-      "A responsive and visually appealing personal portfolio website using Next.js.",
-    link: "#",
+      "A full-stack library management system for cataloging, borrowing, returns, and role-based access using Java, Spring Boot, and MySQL",
+    link: "https://github.com/sNirajan/digital-library",
   },
   {
     title: "Campus Food Ordering System",
