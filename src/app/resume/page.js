@@ -65,7 +65,7 @@ const Resume = () => {
           >
             <div className="bg-white shadow-lg rounded-lg p-6 mb-6 transform hover:scale-105 transition-transform duration-300">
               <h3 className="text-2xl font-semibold text-darkGreen mb-2">
-                Web Developer (Part-time)
+                Backend Developer 
               </h3>
               <p className="text-lg text-gray-700 mb-4">
                 KSVA Tech Solutions (Startup) | Remote |{" "}
