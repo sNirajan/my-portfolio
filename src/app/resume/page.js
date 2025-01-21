@@ -145,7 +145,7 @@ const Resume = () => {
               BSc. in Applied Computer Science
             </h3>
             <p className="text-gray-600">
-              University of Winnipeg, Winnipeg, MB | Graduated: June 2024
+              University of Winnipeg, Winnipeg, MB
             </p>
           </motion.div>
         </div>
