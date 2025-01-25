@@ -17,7 +17,7 @@ const About = () => {
             About Me
           </h2>
           <p className="text-lg text-gray-700 mt-4 max-w-3xl mx-auto">
-            I am a passionate Computer Science graduate with a knack for
+            I am a passionate Web Developer with a knack for
             creating impactful digital solutions. Skilled in full-stack
             development, I aim to bring ideas to life using modern technologies.
           </p>
@@ -31,7 +31,7 @@ const About = () => {
             </h3>
             <p className="text-gray-700 leading-relaxed mb-6">
               I specialize in building responsive websites and applications
-              using tools like React, Node.js, and PostgreSQL. My goal is to
+              using tools like JavaScript, React, Node.js, and Next.js. My goal is to
               craft seamless user experiences while constantly learning and
               evolving in this fast-paced tech world.
             </p>

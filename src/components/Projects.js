@@ -12,10 +12,10 @@ const projects = [
     link: "https://github.com/sNirajan/digital-library",
   },
   {
-    title: "Campus Food Ordering System",
+    title: "Portfolio-Website",
     description:
-      "A project to simplify food ordering within campus premises using HTML, CSS, and JavaScript.",
-    link: "https://github.com/sNirajan/CFOS",
+      "A project using Next.js, HTML, CSS, and JavaScript to showcase and highlight my work, skills, and experiences",
+    link: "https://github.com/sNirajan/my-portfolio",
   },
 ];
 
