@@ -8,6 +8,7 @@ import {
   faTwitter,
 } from "@fortawesome/free-brands-svg-icons";
 import emailjs from "emailjs-com";
+import toast from "react-hot-toast";
 
 const Contact = () => {
   const [formData, setFormData] = useState({
@@ -35,6 +36,7 @@ const Contact = () => {
       .then(
         (response) => {
           console.log("SUCCESS!", response.status, response.text);
+          toast.success("Message sent successfully!");
           setStatus("Message sent successfully!");
           setFormData({ name: "", email: "", message: "" });
         },
@@ -51,9 +53,9 @@ const Contact = () => {
       className="py-16 bg-gradient-to-t from-green-50 to-white"
     >
       <div className="container mx-auto text-center">
-        {/* Updated Heading */}
+       
         <h2 className="text-4xl font-bold text-darkGreen mb-6">Contact Me</h2>
-        {/* Updated Subheading */}
+       
         <p className="text-lg text-darkGreen mb-10">
           Feel free to reach out to me. I&apos;m open to discussing new
           projects, collaborations, or opportunities.

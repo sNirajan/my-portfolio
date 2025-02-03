@@ -69,7 +69,7 @@ const Resume = () => {
               </h3>
               <p className="text-lg text-gray-700 mb-4">
                 KSVA Tech Solutions (Startup) | Remote |{" "}
-                <span className="text-gray-500">July 2024 – Present</span>
+                <span className="text-gray-500">Jan 2024 – Present</span>
               </p>
               <ul className="list-disc list-inside text-gray-600 space-y-2">
                 <li>
