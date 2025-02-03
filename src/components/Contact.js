@@ -8,7 +8,7 @@ import {
   faTwitter,
 } from "@fortawesome/free-brands-svg-icons";
 import emailjs from "emailjs-com";
-import toast from "react-hot-toast";
+
 
 const Contact = () => {
   const [formData, setFormData] = useState({
@@ -36,7 +36,7 @@ const Contact = () => {
       .then(
         (response) => {
           console.log("SUCCESS!", response.status, response.text);
-          toast.success("Message sent successfully!");
+          
           setStatus("Message sent successfully!");
           setFormData({ name: "", email: "", message: "" });
         },
