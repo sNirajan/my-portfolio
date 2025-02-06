@@ -20,7 +20,7 @@ const Resume = () => {
       {/* Skills Section */}
       <section className="py-12 px-6">
         <h2 className="text-3xl font-bold text-center text-darkGreen mb-8">
-          Skills
+          SKILLS
         </h2>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           <motion.div
@@ -56,7 +56,7 @@ const Resume = () => {
       {/* Experience Section */}
       <section className="py-12 px-6">
         <h2 className="text-3xl font-bold text-center text-darkGreen mb-8">
-          Experience
+          PROFESSIONAL EXPERIENCE
         </h2>
         <div className="space-y-8">
           <motion.div
@@ -65,7 +65,7 @@ const Resume = () => {
           >
             <div className="bg-white shadow-lg rounded-lg p-6 mb-6 transform hover:scale-105 transition-transform duration-300">
               <h3 className="text-2xl font-semibold text-darkGreen mb-2">
-                Backend Developer 
+                Web Developer 
               </h3>
               <p className="text-lg text-gray-700 mb-4">
                 KSVA Tech Solutions (Startup) | Remote |{" "}
@@ -73,7 +73,7 @@ const Resume = () => {
               </p>
               <ul className="list-disc list-inside text-gray-600 space-y-2">
                 <li>
-                  Built and maintained backend systems using{" "}
+                  Developed and maintained backend systems using{" "}
                   <strong>Node.js</strong>, integrating seamlessly with a{" "}
                   <strong>Next.js</strong>-powered front end.
                 </li>
@@ -81,6 +81,22 @@ const Resume = () => {
                   Designed RESTful APIs, optimized database queries, and
                   improved performance by implementing efficient coding
                   practices.
+                </li>
+                <li>
+                Integrated {" "}
+                <strong>Google OAuth2 authentication</strong>, enabling seamless and secure user login across applications.
+                </li>
+                <li>
+                Developed and deployed a {" "}
+                <strong>chatbot using OpenAI's API</strong>, enhancing user interaction with AI-driven responses.
+                </li>
+                <li>
+                Worked with {" "}
+                <strong>MongoDB and PostgreSQL</strong>, optimizing queries to improve database efficiency.
+                </li>
+                <li>
+                Implemented {" "}
+                <strong>CI/CD pipelines (GitHub Actions, Docker)</strong> for automated deployment, improving workflow efficiency by 40%. 
                 </li>
                 <li>
                   Collaborated with the team to brainstorm and implement
@@ -93,7 +109,7 @@ const Resume = () => {
               </ul>
             </div>
 
-            <div className="bg-white shadow-lg rounded-lg p-6 mb-6 transform hover:scale-105 transition-transform duration-300">
+            {/* <div className="bg-white shadow-lg rounded-lg p-6 mb-6 transform hover:scale-105 transition-transform duration-300">
               <h3 className="text-2xl font-semibold text-darkGreen mb-2">
                 Full-Stack Developer (Project-Based)
               </h3>
@@ -126,15 +142,15 @@ const Resume = () => {
                   app performance and scalability.
                 </li>
               </ul>
-            </div>
+            </div> */}
           </motion.div>
         </div>
       </section>
 
       {/* Education Section */}
-      <section className="py-12 px-6">
-        <h2 className="text-3xl font-bold text-center text-darkGreen mb-8">
-          Education
+      <section className="py-2 px-6">
+        <h2 className="text-3xl font-bold text-center text-darkGreen mb-4">
+          EDUCATION
         </h2>
         <div className="space-y-8">
           <motion.div
@@ -155,7 +171,7 @@ const Resume = () => {
       <section className="text-center py-12">
         <Link
           href="/"
-          className="relative inline-flex items-center justify-center px-8 py-3 font-semibold text-white bg-darkGreen rounded-lg shadow-md overflow-hidden group"
+          className="relative inline-flex items-center justify-center px-4 py-3 font-semibold text-white bg-darkGreen rounded-lg shadow-md overflow-hidden group"
         >
           {/* Animated Glow Effect */}
           <span className="absolute w-0 h-0 bg-gradient-to-r from-primaryGreen to-lime-500 rounded-full group-hover:w-full group-hover:h-full transition-all duration-500 ease-out"></span>
