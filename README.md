@@ -4,7 +4,7 @@ This is my personal portfolio website designed to showcase my skills, projects, 
 
 ---
 
-## 🚀 **Live Demo**
+##  **Live Demo**
 You can view the live version of this portfolio [here](https://www.nirajanshah.me).
 
 ---
@@ -29,7 +29,7 @@ You can view the live version of this portfolio [here](https://www.nirajanshah.m
 
 ---
 
-## 📧 **Contact**
+##  **Contact**
 Feel free to reach out to me if you'd like to discuss collaboration opportunities, new projects, or job offers:
 - **GitHub**: [sNirajan](https://github.com/sNirajan)
 - **LinkedIn**: [Nirajan Shah](https://linkedin.com/in/nirajan-shah)
