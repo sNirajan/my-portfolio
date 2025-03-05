@@ -31,15 +31,12 @@ const About = () => {
             </h3>
             <p className="text-gray-700 leading-relaxed mb-6">
               I specialize in building responsive websites and applications
-              using tools like JavaScript, React, Node.js, and Next.js. My goal is to
-              craft seamless user experiences while constantly learning and
+              using JavaScript, React, Node.js, and Next.js. My goal is to
+              craft intuitive user experiences while constantly learning and
               evolving in this fast-paced tech world.
             </p>
             <p className="text-gray-700 leading-relaxed">
-              Outside of work, I enjoy exploring new technologies, solving
-              problems, and contributing to meaningful projects. I believe in
-              the power of teamwork and continuous growth to achieve great
-              things.
+              Outside of work, you&apos;ll find me exploring new technologies, brainstorming fresh ideas, or contributing to meaningful projects that align with my passion for innovation. I believe strongly in the power of teamwork and continuous growth to achieve great things together.
             </p>
             {/* Reach Me Section */}
             <div className="mt-8 flex items-center space-x-4">

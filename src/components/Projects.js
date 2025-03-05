@@ -1,22 +1,30 @@
 const projects = [
   {
+    title: "Task Management Dashboard",
+    description:
+      "A full-stack web application that boosts productivity through real-time collaboration and automated task recommendations",
+    link: "https://github.com/sNirajan/Task-Management-Dashboard",
+  },
+  
+  {
+    title: "Digital Library Management",
+    description:
+      "Library management system for cataloging, borrowing, returns, and role-based access using Java, Spring Boot, and MySQL",
+    link: "https://github.com/sNirajan/digital-library",
+  },
+  {
     title: "Web Bot Chat App",
     description:
       "A full-stack project using Node.js, Express, and React.js to create real-time chat communication features.",
     link: "https://github.com/sNirajan/Chat-App",
   },
-  {
-    title: "Digital Library Management",
-    description:
-      "A full-stack library management system for cataloging, borrowing, returns, and role-based access using Java, Spring Boot, and MySQL",
-    link: "https://github.com/sNirajan/digital-library",
-  },
-  {
-    title: "Portfolio-Website",
-    description:
-      "A project using Next.js, HTML, CSS, and JavaScript to showcase and highlight my work, skills, and experiences",
-    link: "https://github.com/sNirajan/my-portfolio",
-  },
+  
+  // {
+  //   title: "Portfolio-Website",
+  //   description:
+  //     "A project using Next.js, HTML, CSS, and JavaScript to showcase and highlight my work, skills, and experiences",
+  //   link: "https://github.com/sNirajan/my-portfolio",
+  // },
 ];
 
 const Projects = () => {

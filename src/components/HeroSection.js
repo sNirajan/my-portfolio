@@ -19,7 +19,7 @@ const HeroSection = () => {
           <span className="gradient-text"> Nirajan Shah</span>
         </h1>
         <p className="mt-2 text-lg text-gray-600">
-          Web Developer | Passionate Problem Solver
+          Full-Stack Developer
         </p>
         <a
           href="/resume"
