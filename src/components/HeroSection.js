@@ -16,7 +16,7 @@ const HeroSection = () => {
       <div className={`pt-16 ${animationClass}`}>
         <h1 className="text-5xl font-bold mt-10 mb-6">
           Hi, I&apos;m
-          <span className="gradient-text"> Nirajan Shah</span>
+          <span className="gradient-text"> Nira Shah</span>
         </h1>
         <p className="mt-2 text-lg text-gray-600">
           Full-Stack Developer
