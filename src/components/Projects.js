@@ -1,6 +1,6 @@
 const projects = [
   {
-    title: "KSVA Tech Solutions Website",
+    title: "KSVA Tech Solutions' Website",
     description:
       "A production deployed business site of KSVA Tech Solutions. Frontend hosted on Vercel, backend on AWS EC2.",
     link: "https://www.ksvatechsolutions.com/",
