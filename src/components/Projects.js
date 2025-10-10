@@ -13,10 +13,10 @@ const projects = [
     link: "https://github.com/sNirajan/digital-library",
   },
   {
-    title: "Web Bot Chat App",
+    title: "What-If Investment Simulator",
     description:
-      "A full-stack project using Node.js, Express, and React.js to create real-time chat communication features.",
-    link: "https://github.com/sNirajan/Chat-App",
+      "A full-stack TypeScript web app for deterministic investment backtesting based on real historical market data. ",
+    link: "https://github.com/sNirajan/What-if-Simulator",
   },
   
   // {
