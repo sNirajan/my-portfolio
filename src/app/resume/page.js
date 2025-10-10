@@ -88,7 +88,7 @@ const Resume = () => {
                 </li>
                 <li>
                 Developed and deployed a {" "}
-                <strong>chatbot using OpenAI's API</strong>, enhancing user interaction with AI-driven responses.
+                <strong>chatbot using OpenAI&apos;s API</strong>, enhancing user interaction with AI-driven responses.
                 </li>
                 <li>
                 Worked with {" "}
