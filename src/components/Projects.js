@@ -5,12 +5,12 @@ const projects = [
       "A production deployed business site of KSVA Tech Solutions. Frontend hosted on Vercel, backend on AWS EC2.",
     link: "https://www.ksvatechsolutions.com/",
   },
-  
+
   {
     title: "RAG-Based Chatbot",
     description:
       "A full-stack project that answers questions from internal company documents through Retrieval-Augmented Generation (RAG)",
-    link: "https://github.com/sNirajan/digital-library",
+    link: "https://github.com/sNirajan/Retrieval-Augmented-Chatbot-with-LangChain-OpenAI",
   },
   {
     title: "What-If Investment Simulator",
@@ -18,7 +18,7 @@ const projects = [
       "A full-stack TypeScript web app for deterministic investment backtesting based on real historical market data. ",
     link: "https://github.com/sNirajan/What-if-Simulator",
   },
-  
+
   // {
   //   title: "Portfolio-Website",
   //   description:
