@@ -7,9 +7,9 @@ const projects = [
   },
   
   {
-    title: "Digital Library Management",
+    title: "RAG-Based Chatbot",
     description:
-      "Library management system for cataloging, borrowing, returns, and role-based access using Java, Spring Boot, and MySQL",
+      "A full-stack project that answers questions from internal company documents through Retrieval-Augmented Generation (RAG)",
     link: "https://github.com/sNirajan/digital-library",
   },
   {
