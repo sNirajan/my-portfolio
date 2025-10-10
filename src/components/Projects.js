@@ -1,9 +1,9 @@
 const projects = [
   {
-    title: "Task Management Dashboard",
+    title: "KSVA Tech Solutions Website",
     description:
-      "A full-stack web application that boosts productivity through real-time collaboration and automated task recommendations",
-    link: "https://github.com/sNirajan/Task-Management-Dashboard",
+      "A production deployed business site of KSVA Tech Solutions. Frontend hosted on Vercel, backend on AWS EC2.",
+    link: "https://www.ksvatechsolutions.com/",
   },
   
   {
